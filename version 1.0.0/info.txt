@@ -1,1 +1,3 @@
+A ground level basic implementation of what the project will be doing
 
+All regards XII CODE
